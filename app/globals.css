@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-prev:before {
+  color: #ff8c32 !important;
+}
+
+.slick-next:before {
+  color: #ff8c32 !important;
+}
+
+.cl-internal-rx251b {
+  box-shadow: none;
+}
