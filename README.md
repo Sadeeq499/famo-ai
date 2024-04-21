@@ -1,2 +1,14 @@
-
+Figma UI you can Continue to make it your own business feel free to move it further 
 ![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/a04adf6a-623e-4927-b763-f965efee8900)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/7df75d3a-b329-445d-baea-f35d18500a3a)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/143e34d2-7fd8-48a3-bdd2-6ba55163db22)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/1e1123a1-c2a8-4021-a93c-2e66fd7d1788)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/1ffe55cc-b25b-45bc-946b-432f15ca2f80)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/f60545cf-c623-4372-b008-d47af589e9e1)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/860758cf-08c4-4a2e-bd43-3b50c0563261)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/adcc1a3c-b88d-44f0-9421-6cfe4df81b0d)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/ff140e09-e25a-4c47-88af-960610118ea7)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/c1720ee4-6c90-4045-96da-3905a7d9be73)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/700e5f79-aafc-4cc0-a1ff-6dc26914119b)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/2c59623d-a5a8-4171-82d6-ee9487704183)
+![image](https://github.com/Sadeeq499/famo-ai/assets/86494926/097d5651-a74d-421f-9d2b-b8554778a91e)
